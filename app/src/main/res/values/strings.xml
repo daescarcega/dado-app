@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="roll"><![CDATA[Roll & Rock]]></string>
+</resources>
